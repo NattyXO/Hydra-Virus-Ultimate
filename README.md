@@ -32,5 +32,5 @@ If you'd like to contribute or report issues, please follow our [contribution gu
 
 ## License
 
-This project is licensed under the [CC0 1.0 Universal] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [CC0 1.0 Universal] - see the [LICENSE.md](LICENSE) file for details.
 
