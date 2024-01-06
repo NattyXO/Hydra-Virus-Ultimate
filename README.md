@@ -9,7 +9,7 @@ Hydra is a Windows virus that displays a Windows form. When you close a form, 3 
 - Hide from task manager
 - Its doesnt close using alt+f4
 - Top most
-- Startup to system boot
+- Startup with system boot
 
 ## How to Use
 
