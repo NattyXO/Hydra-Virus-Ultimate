@@ -2,7 +2,7 @@
 
 ## Description
 
-Hydra is a Windows virus that displays a message box. When you close a message box, 2 more will show up.
+Hydra is a Windows virus that displays a Windows form. When you close a form, 3 more will show up.
 
 ## Features
 
