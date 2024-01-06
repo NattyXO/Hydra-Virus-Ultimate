@@ -1,0 +1,18 @@
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\bin\Release\Hydra Virus.exe.config
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\bin\Release\Hydra Virus.exe.manifest
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\bin\Release\Hydra Virus.application
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\bin\Release\Hydra Virus.exe
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\bin\Release\Hydra Virus.pdb
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\bin\Release\Hydra Virus.xml
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Release\Hydra_Virus.Form1.resources
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Release\Hydra_Virus.Form2.resources
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Release\Hydra_Virus.Form3.resources
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Release\Hydra_Virus.Form4.resources
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Release\Hydra_Virus.Resources.resources
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Release\Hydra Virus.vbproj.GenerateResource.cache
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Release\Hydra Virus.vbproj.CoreCompileInputs.cache
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Release\Hydra Virus.exe.manifest
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Release\Hydra Virus.application
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Release\Hydra Virus.exe
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Release\Hydra Virus.xml
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Release\Hydra Virus.pdb

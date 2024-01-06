@@ -1,0 +1,55 @@
+c:\users\nahoo\documents\visual studio 2017\Projects\hidra\hidra\bin\Debug\hidra.exe.config
+c:\users\nahoo\documents\visual studio 2017\Projects\hidra\hidra\bin\Debug\hidra.exe
+c:\users\nahoo\documents\visual studio 2017\Projects\hidra\hidra\bin\Debug\hidra.pdb
+c:\users\nahoo\documents\visual studio 2017\Projects\hidra\hidra\bin\Debug\hidra.xml
+c:\users\nahoo\documents\visual studio 2017\Projects\hidra\hidra\obj\Debug\hidra.vbprojResolveAssemblyReference.cache
+c:\users\nahoo\documents\visual studio 2017\Projects\hidra\hidra\obj\Debug\hidra.Form1.resources
+c:\users\nahoo\documents\visual studio 2017\Projects\hidra\hidra\obj\Debug\hidra.Resources.resources
+c:\users\nahoo\documents\visual studio 2017\Projects\hidra\hidra\obj\Debug\hidra.vbproj.GenerateResource.Cache
+c:\users\nahoo\documents\visual studio 2017\Projects\hidra\hidra\obj\Debug\hidra.exe
+c:\users\nahoo\documents\visual studio 2017\Projects\hidra\hidra\obj\Debug\hidra.xml
+c:\users\nahoo\documents\visual studio 2017\Projects\hidra\hidra\obj\Debug\hidra.pdb
+c:\users\nahoo\documents\visual studio 2017\Projects\hidra\hidra\obj\Debug\hidra.Form2.resources
+c:\users\nahoo\documents\visual studio 2017\Projects\hidra\hidra\obj\Debug\hidra.Form3.resources
+c:\users\nahoo\documents\visual studio 2017\Projects\hidra\hidra\obj\Debug\hidra.Form4.resources
+c:\users\nahoo\documents\visual studio 2017\Projects\hidra\hidra\bin\Debug\hidra.exe.manifest
+c:\users\nahoo\documents\visual studio 2017\Projects\hidra\hidra\bin\Debug\hidra.application
+c:\users\nahoo\documents\visual studio 2017\Projects\hidra\hidra\obj\Debug\hidra.exe.manifest
+c:\users\nahoo\documents\visual studio 2017\Projects\hidra\hidra\obj\Debug\hidra.application
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\hidra\hidra\bin\Debug\hidra.exe.config
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\hidra\hidra\bin\Debug\hidra.exe.manifest
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\hidra\hidra\bin\Debug\hidra.application
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\hidra\hidra\bin\Debug\hidra.exe
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\hidra\hidra\bin\Debug\hidra.pdb
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\hidra\hidra\bin\Debug\hidra.xml
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.vbprojResolveAssemblyReference.cache
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.Form1.resources
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.Form2.resources
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.Form3.resources
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.Form4.resources
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.Resources.resources
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.vbproj.GenerateResource.Cache
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.exe.manifest
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.application
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.exe
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.xml
+C:\Users\SNIPER RAS-MTAT\Documents\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.pdb
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.vbproj.AssemblyReference.cache
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.Form1.resources
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.vbproj.GenerateResource.cache
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.xml
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.pdb
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.Form2.resources
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.Form3.resources
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.Form4.resources
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.Resources.resources
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.vbproj.CoreCompileInputs.cache
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.exe
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\bin\Debug\hidra.exe.config
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\bin\Debug\hidra.exe.manifest
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\bin\Debug\hidra.application
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\bin\Debug\hidra.exe
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\bin\Debug\hidra.pdb
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\bin\Debug\hidra.xml
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.exe.manifest
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Debug\hidra.application
