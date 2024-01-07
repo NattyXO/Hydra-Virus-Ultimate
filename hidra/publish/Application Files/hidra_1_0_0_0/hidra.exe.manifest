@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="hidra.exe" version="1.0.0.0" publicKeyToken="8484d0c51a59a12c" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="hidra" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="hidra.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="hidra.exe" size="1751456">
+      <assemblyIdentity name="hidra" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>qNubjBP9jdz3szPYPimpZw7vwjvv2ij1HrnKMwdvSf0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="hidra.exe.config" size="188">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>j5XMowm9qYcyNWR87Ke1KpLLXBlaYAR38CaZywZFE9o=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=nahu\Nahoo" issuerKeyHash="eee243605c062d820856b4390804f5188922b9ef" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ZrZquVZvploKzjGk1NMATi0BPXgkbG1auKEIz478oN8=</DigestValue></Reference></SignedInfo><SignatureValue>qMs5xNAsXf3UI6/EruDJ4UYH+XldCK6L381IWtoKE92Fx5scto5nQyPaHyvSkFhOj69Cv7IVGzTs2iDZUNXdZr0yi9Er2bIsKooGJb9CBQ3PhBO65iCpqklXRwmey8ONL9ZtAkgJdx4DocskBklPC8BY8VxlyHfxU7QCAeX4FtQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>ze3O2ncDU1RT//Cpzy4vLauChIJLxzH21wxg5xT/ddY6Xwvhr3ehlq5N76DcrhojqiW7E7/qvWObDFGBAYmERDG0xSa+UNiIWUljcBLDhR5dwYSzGlOLiirR3vxJ2wpEsx7BwUzPTmybTd+ws0JguQTtrt8fGj0ZnjzzVF5SKsM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="dfa0fc8ecf08a1b85a6d6c24783d012d4e00d3d4a431ce0a5aa66f56b96ab666" Description="" Url=""><as:assemblyIdentity name="hidra.exe" version="1.0.0.0" publicKeyToken="8484d0c51a59a12c" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=nahu\Nahoo</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>kfwx07GtTlJByz7Sp/q2fbaMwHWG9PVbeXqa8v/IVjs=</DigestValue></Reference></SignedInfo><SignatureValue>EVnIGPuQJocJ2HXjuEAqHv9HbYnSqjYB+cRdSuedMixA5A94PWf+bPhVsjlQ2GielooALjJCJFh8MXD5U2wPOMGCeaI6LgJIiDmZgDCQ9Ee+YWS6dXMRJSS7/mSbdTatJZXscHUOmISfz1CAnT+7ms+ueJkWvlfC7MwHd2wwcZk=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>ze3O2ncDU1RT//Cpzy4vLauChIJLxzH21wxg5xT/ddY6Xwvhr3ehlq5N76DcrhojqiW7E7/qvWObDFGBAYmERDG0xSa+UNiIWUljcBLDhR5dwYSzGlOLiirR3vxJ2wpEsx7BwUzPTmybTd+ws0JguQTtrt8fGj0ZnjzzVF5SKsM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBwTCCASqgAwIBAgIQYW7SMDvD2K1KttGVW/rdhzANBgkqhkiG9w0BAQsFADAfMR0wGwYDVQQDHhQAbgBhAGgAdQBcAE4AYQBoAG8AbzAeFw0xOTA3MTYwNjMzNDhaFw0yMDA3MTUxMjMzNDhaMB8xHTAbBgNVBAMeFABuAGEAaAB1AFwATgBhAGgAbwBvMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDN7c7adwNTVFP/8KnPLi8tq4KEgkvHMfbXDGDnFP911jpfC+Gvd6GWrk3voNyuGiOqJbsTv+q9Y5sMUYEBiYREMbTFJr5Q2IhZSWNwEsOFHl3BhLMaU4uKKtHe/EnbCkSzHsHBTM9ObJtN37CzQmC5BO2u3x8aPRmePPNUXlIqwwIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAAYKzKMSs19AeSMKUBAHp5ZbRgYuVa9trjX59ZOKl62We8a9Qp7PMRMO3S2tiJ2OasaG+gHMddnI3fOdAhWi5qfpwyMBAF/q2thjdSgV7kenPMM2Vzmp+dUAf76SFEZWP3k0CwGj1ncsu2ElXAmZH4xWb8fFMznoyUSpnuTjMw0N</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

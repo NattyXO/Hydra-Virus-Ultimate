@@ -16,3 +16,4 @@ C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Release\H
 C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Release\Hydra Virus.exe
 C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Release\Hydra Virus.xml
 C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Release\Hydra Virus.pdb
+C:\Users\NattyXO\Downloads\Visual Studio 2017\Projects\hidra\hidra\obj\Release\Hydra Virus.vbproj.AssemblyReference.cache

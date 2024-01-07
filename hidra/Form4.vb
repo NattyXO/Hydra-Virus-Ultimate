@@ -5,6 +5,15 @@ Public Class Form4
     Private Const VK_F4 As Integer = &H73
     Private Const MOD_ALT As Integer = &H1
 
+    Private Const WM_SYSCOMMAND As Integer = &H112
+    Private Const SC_MOVE As Integer = &HF010
+
+    Protected Overrides Sub WndProc(ByRef m As Message)
+        If m.Msg = WM_SYSCOMMAND AndAlso (m.WParam.ToInt32() And &HFFF0) = SC_MOVE Then
+            Return
+        End If
+        MyBase.WndProc(m)
+    End Sub
     Protected Overrides Function ProcessCmdKey(ByRef msg As Message, keyData As Keys) As Boolean
         If (msg.Msg = WM_SYSKEYDOWN AndAlso (keyData = (Keys.F4 Or Keys.Alt))) Then
             ' Prevent Alt+F4 from closing the form
@@ -62,5 +71,11 @@ Public Class Form4
         Me.TopMost = True
         Me.ShowInTaskbar = False
         AddToStartup()
+    End Sub
+
+    Private Sub Form4_MouseDown(sender As Object, e As MouseEventArgs) Handles MyBase.MouseDown
+        If e.Button = MouseButtons.Left Then
+            Capture = False ' Release the capture to enable normal form behavior
+        End If
     End Sub
 End Class

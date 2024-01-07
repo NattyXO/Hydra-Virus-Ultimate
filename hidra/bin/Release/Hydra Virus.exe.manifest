@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Hydra Virus.exe" size="265728">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Hydra Virus.exe" size="266752">
       <assemblyIdentity name="Hydra Virus" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>J6bw14hhfe4aC2yBsYz9L8HHiN7THVeIsJZNi5Jvq8c=</dsig:DigestValue>
+        <dsig:DigestValue>in+73aFjq5PR+H9Ok+PPNijHRGGnxKGKj0ZEU1T+PvQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
